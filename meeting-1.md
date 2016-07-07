@@ -1,4 +1,4 @@
-# Tasks
+# Meeting 1: July 7 2016
 
 Keren should be emailing us the list of stuff to do, but until then, these are the notes from the meeting:
 
