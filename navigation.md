@@ -1,3 +1,3 @@
 # Navigation
-[Home](index.md)
+[Home](README.md)
 [Meeting 1](M1.md)
