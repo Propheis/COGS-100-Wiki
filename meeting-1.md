@@ -3,10 +3,10 @@
 Keren should be emailing us the list of stuff to do, but until then, these are the notes from the meeting:
 
 ## Due by Next Week:
-1. Finish Categorizing Unit 1 & 2 from the Question Bank.
-2. Sort the Questions by Unit -> Lesson -> [Easy | Medium | Difficult]
+1. **(Done)** Finish Categorizing Unit 1 & 2 from the Question Bank.
+2. **(Done - Up to U2L4)** Sort the Questions by Unit -> Lesson -> [Easy | Medium | Difficult]
 3. Open `Group_Activity_Logic.docx` from dropbox and overwrite contents to reflect a logic group activity. Existing contents are an example for us to see.
-4. For Units 1 & 2, add explanations to the answers for difficult questions. Make sure to explain _why_ an answer is correct.
+4. **(Done - Up to U2L4)** For Units 1 & 2, add explanations to the answers for difficult questions. Make sure to explain _why_ an answer is correct.
 5. Email Book publisher and request access. If they say no, purchase 2 copies outright and Farhana will reimburse us.
 
 ## Notes
