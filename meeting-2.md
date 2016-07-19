@@ -1,6 +1,6 @@
 # Meeting 2: July 14 2016
 
-## Group Assignment Logic (KEVIN)
+## **(Done)** Group Assignment Logic
 * Add extension question for adding new family member. Let student choose what kind of family member relation to implement
 * Add rubric to assignment with 4 columns. Mark based on program running, syntax, creativity, etc.
 * Make multi-part problem. Each student does a part, mark based on whole project as group.
