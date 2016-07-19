@@ -8,7 +8,7 @@
 
 ## For next Week:
 
-### Chatbot (KEVIN)
+### **(Done)** Chatbot
 * Come up with assignment for chatbot. **Don't do implementation**.
 * Maybe chatbot comparison? Reasearch project?
 * Part 1: Write/Discuss a chatbot and answer objective questions
