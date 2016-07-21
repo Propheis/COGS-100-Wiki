@@ -16,11 +16,11 @@
 
 ### Question Bank
 * **(Done)** Finish Unit 2 Difficult Question feedback
-* **(DOMI)** Finish sorting Unit 3 questions by representation.
+* **(Done)** Finish sorting Unit 3 questions by representation.
 
 ### Weekly Challenge
 * See /assessments/weekly challenge/Weekly_Challenge_example.docx
-* **(DOMI)** Do Weekly Challenges 1 & 2
+* **(Done)** Do Weekly Challenges 1 & 2
 * **(Done)** Do Weekly Challenges 3 & 4
 * Should be on topics from additional reading.
 * Ask questions that make students relate content back to the course
