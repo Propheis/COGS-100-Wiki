@@ -1,5 +1,7 @@
 # COGS 100 Wiki
 
+[gimmick:ForkMeOnGitHub](http://www.github.com/propheis/cogs100-wiki)
+
 If you aren't already here, the live-version of this is available at [my website](http://kevinzuern.com/cogs/).
 
 ## Adding a Page to the Wiki
