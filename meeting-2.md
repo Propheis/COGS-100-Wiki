@@ -21,6 +21,6 @@
 ### Weekly Challenge
 * See /assessments/weekly challenge/Weekly_Challenge_example.docx
 * **(DOMI)** Do Weekly Challenges 1 & 2
-* **(KEVIN)** Do Weekly Challenges 3 & 4
+* **(Done)** Do Weekly Challenges 3 & 4
 * Should be on topics from additional reading.
 * Ask questions that make students relate content back to the course
