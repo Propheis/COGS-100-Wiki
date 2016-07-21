@@ -15,7 +15,7 @@
 * Part 2: Compare/Contrast implementations of chatbots. More research oriented
 
 ### Question Bank
-* **(KEVIN)** Finish Unit 2 Difficult Question feedback
+* **(Done)** Finish Unit 2 Difficult Question feedback
 * **(DOMI)** Finish sorting Unit 3 questions by representation.
 
 ### Weekly Challenge
