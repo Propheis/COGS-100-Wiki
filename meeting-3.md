@@ -1,6 +1,7 @@
 # Meeting 3: July 21 2016
 
-* **Aug 4 NO MEETING **
+Attention: **Aug 4 NO MEETING **
+
 * FYI Farhana says she's increasing mark weighting of weekly challenges.
 * Farhana gives us updated syllabus by July 22 Latest.
 * Getting feedback on chatbot
@@ -12,10 +13,10 @@
 
 # For Next Week
 
-* Finish weekly challenges up to week 6
+* (Kevin) Finish weekly challenges up to week 6
     * Try to use online resources, videos, etc.
-* Take Cognitive Processes from U3 into *new* Unit 4. Current U4 contents goes into U5.
-* Refactor Logic Assignment according to criteria below
+* (Domi) Take Cognitive Processes from U3 into *new* Unit 4. Current U4 contents goes into U5.
+* (Kevin) Refactor Logic Assignment according to criteria below
 
 ### Logic Assignment Refactoring
 * Use lecture slides to make the logic assignment more relevant.
