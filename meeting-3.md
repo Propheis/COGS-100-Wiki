@@ -15,7 +15,7 @@ Attention: **Aug 4 NO MEETING **
 
 * **(Done)** Finish weekly challenges up to week 6
     * Try to use online resources, videos, etc.
-* (Domi) Take Cognitive Processes from U3 into *new* Unit 4. Current U4 contents goes into U5.
+* (Done) Take Cognitive Processes from U3 into *new* Unit 4. Current U4 contents goes into U5, new U4 is organized
 * **(Done)** Refactor Logic Assignment according to criteria below
 * **(Done)** Update Chatbot assignment with new rubric and recommended changes from Farhana
 
