@@ -4,7 +4,7 @@ Attention: **Aug 4 NO MEETING **
 
 * FYI Farhana says she's increasing mark weighting of weekly challenges.
 * Farhana gives us updated syllabus by July 22 Latest.
-* Getting feedback on chatbot
+* (Received) Getting feedback on chatbot
 
 ### Feedback for Weekly Challenges
 
@@ -17,6 +17,7 @@ Attention: **Aug 4 NO MEETING **
     * Try to use online resources, videos, etc.
 * (Domi) Take Cognitive Processes from U3 into *new* Unit 4. Current U4 contents goes into U5.
 * **(Done)** Refactor Logic Assignment according to criteria below
+* **(Done)** Update Chatbot assignment with new rubric and recommended changes from Farhana
 
 ### Logic Assignment Refactoring
 * Use lecture slides to make the logic assignment more relevant.
