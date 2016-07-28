@@ -13,7 +13,7 @@ Attention: **Aug 4 NO MEETING **
 
 # For Next Week
 
-* (Kevin) Finish weekly challenges up to week 6
+* **(Done)** Finish weekly challenges up to week 6
     * Try to use online resources, videos, etc.
 * (Domi) Take Cognitive Processes from U3 into *new* Unit 4. Current U4 contents goes into U5.
 * (Kevin) Refactor Logic Assignment according to criteria below
