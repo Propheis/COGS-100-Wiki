@@ -11,7 +11,7 @@ Attention: **Aug 4 NO MEETING **
 Note: Lecture slides now complete and online
 
 * **(Kevin)** Do 6 new weekly challenges (see below) out of 3 marks per weekly challenge
-* **(Domi)** Finish categorizing questions by difficulty. Use lecture slides for reference.
+* **Done, explanation for difficult questions to be completed for next week** Finish categorizing questions by difficulty. Use lecture slides for reference.
 
 ## Topics for Weekly challenges
 
