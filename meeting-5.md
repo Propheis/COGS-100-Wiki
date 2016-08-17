@@ -2,12 +2,11 @@
 
 # For Next Week
 
-* Work on exam questions (Keren will send us requirements by the 12th)
-	* indicate correct response
-	* include point form of expectations for a good response
-* Answer sheets for Set 1 weekly challenges and for group activity (logic and chatbot)
+* Answer sheets for group activity (logic and chatbot)
+* Answer sheets for Set 1 weekly challenges
+* Answer sheets for Set 2 weekly challenges.
 * Do 6 weeks worth of powerpoint questions
-* Finish week 6 challenge (oops)
+* **(Done)** Finish week 6 challenge (oops)
 
 ## Powerpoint Questions
 
