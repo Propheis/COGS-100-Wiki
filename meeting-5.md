@@ -3,21 +3,23 @@
 # For Next Week
 
 * Answer sheets for group activity (logic and chatbot)
-* Answer sheets for Set 1 weekly challenges
-* Answer sheets for Set 2 weekly challenges.
-* Do 6 weeks worth of powerpoint questions
+* **(Kevin)** Answer sheets for Set 1 weekly challenges
+* **(Kevin)** Answer sheets for Set 2 weekly challenges.
+* **(Domi)** Do 6 weeks worth of powerpoint questions
 * **(Done)** Finish week 6 challenge (oops)
 
 ## Powerpoint Questions
+
+Note: **Can use questions from the question bank to make the questions**
 
 The idea is that students have a non intimidating way to practice. It'll have animations and transitions added to make it interactive.
 
 * Questions based on slides, readings, online links.
 * 1 presentation per week of questions
 * 10 powerpoint questions per course week
-	* first slide is multiple choice questions
-	* second slide is duplicate but with correct/incorrect
-	* Third slide is a copy of the lecture slide the question is based on
+* Each question consists of three slides:
+	1. Multiple choice question
+	2. Same question but with correct/incorrect indications
+	3. Copy/Screenshot of the lecture slide the question is based on
 * See `/Instructional Material/Assesments/Self_assesment/Unit1_L11_example.pptx`
-* Can use questions from the question bank to make the questions
 * Ideally the questions will have images/diagrams in them.
