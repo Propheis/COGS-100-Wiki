@@ -3,8 +3,8 @@
 # For Next Week
 
 * **(Kevin)** Answer sheets for group activity (logic and chatbot)
-* **(Kevin)** Answer sheets for Set 1 weekly challenges
-* **(Kevin)** Answer sheets for Set 2 weekly challenges.
+* **(Done)** Answer sheets for Set 1 weekly challenges
+* **(Done)** Answer sheets for Set 2 weekly challenges.
 * **(Domi)** Do 6 weeks worth of powerpoint questions
 * **(Done)** Finish week 6 challenge (oops)
 
