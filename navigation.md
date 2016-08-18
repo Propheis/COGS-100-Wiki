@@ -6,3 +6,4 @@
 [Meeting 3](meeting-3.md)
 [Meeting 4](meeting-4.md)
 [Meeting 5](meeting-5.md)
+[Meeting 6](meeting-6.md)
