@@ -4,7 +4,7 @@
 
 # For Next Week
 
-* **(Domi)** Need to finish week 6 ppt questions
+* **(Done)** Need to finish week 6 ppt questions
 * **(Domi)** Finish up explanations for difficult questions in exam bank (Units 3 - 5)
 * **(Done)** Add note to logic assignment for students to comment code for part marks.
 * **(Kevin)** Provide example for case 1 in chatbot assignment
