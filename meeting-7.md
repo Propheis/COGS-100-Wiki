@@ -3,7 +3,7 @@
 Note: Final Exam document specifies quantity/type of questions here: `Instructional Material/Assesments/Final Exam/`
 
 # For Friday
-* **(Domi)** finish Unit 4 exam questions
+* (Done) finish Unit 4 exam questions
 * **(Kevin)** finish final exam short answer questions
     * Add Logic Question to final exam short answer questions
 
