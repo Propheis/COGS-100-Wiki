@@ -14,7 +14,7 @@ Note: Final Exam document specifies quantity/type of questions here: `Instructio
     * Unit 5
         * Create enough questions to satisfy final exam
         * Make sure some questions left over in the question bank as well.
-* **(Kevin)** Export Question Bank to XML and look for questions that don't work well when shuffled
+* (Done) Export Question Bank to XML and look for questions that don't work well when shuffled
     * "Both a) and c)"
     * "All of the above"
     * etc.
