@@ -22,7 +22,7 @@ Note: Final Exam document specifies quantity/type of questions here: `Instructio
 * **(Kevin)** Refactor final exam short answer #4 to be the possible inputs of the user to get a parking pass based on user's limited set of coins.
     * User has x quarters, y nickels, z dimes. Draw a diagram showing possible paths to goal state
 * **(Domi)** Answer refactored short answer #4 final exam question and see if it makes any sense.
-* **(Kevin)** Fix up weekly challenge questions as per below
+* (Done) Fix up weekly challenge questions as per below
 
 ### Weekly Challenge for Week 5
 * Set 1 Week 5 Question/Answer numbering doesn't match up.
