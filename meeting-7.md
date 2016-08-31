@@ -9,7 +9,7 @@ Note: Final Exam document specifies quantity/type of questions here: `Instructio
 
 # For Next Week
 * Create questions in question bank (Easy/Medium/Difficult) for:
-    * **(Kevin)** Unit 3
+    * (Done) Unit 3
         * Final Exam: need 15 total medium difficulty
     * Unit 5
         * Create enough questions to satisfy final exam
