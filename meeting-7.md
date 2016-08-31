@@ -4,7 +4,7 @@ Note: Final Exam document specifies quantity/type of questions here: `Instructio
 
 # For Friday
 * (Done) finish Unit 4 exam questions
-* **(Kevin)** finish final exam short answer questions
+* (Done) finish final exam short answer questions
     * Add Logic Question to final exam short answer questions
 
 # For Next Week
