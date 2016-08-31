@@ -18,7 +18,7 @@ Note: Final Exam document specifies quantity/type of questions here: `Instructio
     * "Both a) and c)"
     * "All of the above"
     * etc.
-* **(Kevin)** 3 essay questions with answers for final exam
+* (Done) 3 essay questions with answers for final exam
 * **(Kevin)** Refactor final exam short answer #4 to be the possible inputs of the user to get a parking pass based on user's limited set of coins.
     * User has x quarters, y nickels, z dimes. Draw a diagram showing possible paths to goal state
 * **(Domi)** Answer refactored short answer #4 final exam question and see if it makes any sense.
