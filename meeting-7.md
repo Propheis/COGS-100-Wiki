@@ -11,7 +11,7 @@ Note: Final Exam document specifies quantity/type of questions here: `Instructio
 * Create questions in question bank (Easy/Medium/Difficult) for:
     * (Done) Unit 3
         * Final Exam: need 15 total medium difficulty
-    * **(Still needs to be done)** Unit 5
+    * (Done) Unit 5
         * Create enough questions to satisfy final exam
         * Make sure some questions left over in the question bank as well.
 * (Done) Export Question Bank to XML and look for questions that don't work well when shuffled
