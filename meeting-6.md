@@ -23,7 +23,7 @@ Note: Unit 3 did not have enough medium difficulty to do 20 final exam questions
 * (Done) Move questions for Units 4-6 into new categories
 * (Done) Create 5 short answer questions with answers in seperate file according to final exam doc listed above
     * 2 Questions from each unit
-* **(Domi)** Create 5 short answer questions with answers in seperate file according to final exam doc listed above
+* (Done) Create 5 short answer questions with answers in seperate file according to final exam doc listed above
     * 2 Questions from each unit
 
 * Unit 5 severely lacking questions - will need to create new ones.
